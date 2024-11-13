@@ -232,7 +232,7 @@
                     "path": "Reservoir",
                     "fmt": {
                         "bix": 0,
-                        "len": 8,
+                        "len": 16,
                         "max": 1.0,
                         "min": 0.0,
                         "unit": "Off/On"
