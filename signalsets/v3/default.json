@@ -1797,7 +1797,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Rheostat value (dark=0,bright=255)",
                     "equation": "A"
@@ -1819,7 +1819,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Key Remind Sound (buzzer/Normal, Fast, Slow)",
                     "equation": "A"
@@ -1841,7 +1841,7 @@
                         "len": 8,
                         "max": 192.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Seat Belt Beep Query (Dis A=0,Ena R=32,Ena P=64,Dis D=96,Ena D=128,Dis P=160,192=Dis R,Ena A=160)",
                     "equation": "A"
@@ -1863,7 +1863,7 @@
                         "len": 8,
                         "max": 64.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Reverse Beep Query (Ena=0,Dis=64)",
                     "equation": "A"
@@ -1929,7 +1929,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Solar Sensor (D side)",
                     "equation": "A"
@@ -1995,7 +1995,7 @@
                         "len": 8,
                         "max": 31.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Blower Motor Speed Level",
                     "equation": "A"
@@ -2039,7 +2039,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Air Mix Servo Targ Pulse (D)",
                     "equation": "A"
@@ -2061,7 +2061,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Air Mix Servo Actual Pulse (D)",
                     "equation": "B"
@@ -2083,7 +2083,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Air Outlet Servo Pulse (D)",
                     "equation": "A"
@@ -2105,7 +2105,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Air Outlet Servo Actu Pulse (D)",
                     "equation": "B"
@@ -2127,7 +2127,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Air Inlet Damper Targ Pulse",
                     "equation": "A"
@@ -2149,7 +2149,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Air Inlet Damper Actual Pulse",
                     "equation": "B"
@@ -2501,7 +2501,7 @@
                         "len": 8,
                         "max": 16.0,
                         "min": 1.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Fuel System Status #1 (OL=1,CL=2,OLDrive=4,OLFault=8,CLFault=16)",
                     "equation": "A"
@@ -2589,7 +2589,7 @@
                         "len": 8,
                         "max": 1.99,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Target Air-Fuel Ratio",
                     "equation": "(A * 256 + B) * 1.99 / 65535"
@@ -2611,7 +2611,7 @@
                         "len": 8,
                         "max": 1.99,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "AF Lambda B1S1",
                     "equation": "(C * 256 + D) * 1.99 / 65535"
@@ -2831,7 +2831,7 @@
                         "len": 8,
                         "max": 0.496,
                         "min": -0.5,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Total FT #1",
                     "equation": "E * 0.996 / 255 - 0.5"
@@ -2963,7 +2963,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Cylinder #1 Misfire Count",
                     "equation": "D"
@@ -2985,7 +2985,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Cylinder #2 Misfire Count",
                     "equation": "E"
@@ -3007,7 +3007,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Cylinder #3 Misfire Count",
                     "equation": "F"
@@ -3029,7 +3029,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Cylinder #4 Misfire Count",
                     "equation": "G"
@@ -3051,7 +3051,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "All Cylinders Misfire Count",
                     "equation": "H"
@@ -3073,7 +3073,7 @@
                         "len": 8,
                         "max": 65535.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Ignition Trig. Count",
                     "equation": "I * 256 + J"
@@ -3535,7 +3535,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Model Code_7E0",
                     "equation": "ABCDEFG"
@@ -3557,7 +3557,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Engine Type",
                     "equation": "HIJKLM"
@@ -3579,7 +3579,7 @@
                         "len": 8,
                         "max": 4.0,
                         "min": 4.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Cylinder Number",
                     "equation": "N"
@@ -3601,7 +3601,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Destination",
                     "equation": "P"
@@ -3623,7 +3623,7 @@
                         "len": 8,
                         "max": 2155.0,
                         "min": 1900.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Model Year",
                     "equation": "Q + 1900"
@@ -3645,7 +3645,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "System Identification",
                     "equation": "R"
@@ -3953,7 +3953,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "DTC Clear Warm Up",
                     "equation": "O"
@@ -4591,7 +4591,7 @@
                         "len": 8,
                         "max": 2.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "MG1 Control Mode (PWM=0,Variable PWM=1,Rectangular wave=2)",
                     "equation": "E"
@@ -4657,7 +4657,7 @@
                         "len": 8,
                         "max": 2.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "MG2 Control Mode (PWM=0,Variable PWM=1,Rectangular wave=2)",
                     "equation": "E"
@@ -5405,7 +5405,7 @@
                         "len": 8,
                         "max": 6.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Converter Carrier Frequency (9.55kHz=0,9.13kHz=1,8.71kHz=2,8.29kHz=3,7.87kHz=4,7.45kHz=5,4.8kHz=6)",
                     "equation": "B"
@@ -5999,7 +5999,7 @@
                         "len": 8,
                         "max": 14.0,
                         "min": 1.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Battery block number with minimum voltage",
                     "equation": "C + 1"
@@ -6043,7 +6043,7 @@
                         "len": 8,
                         "max": 14.0,
                         "min": 1.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Battery block number with maximum voltage",
                     "equation": "F + 1"
@@ -6087,7 +6087,7 @@
                         "len": 8,
                         "max": 14.0,
                         "min": 14.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Number of battery blocks",
                     "equation": "G"
@@ -6109,7 +6109,7 @@
                         "len": 8,
                         "max": 65535.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Accumulated Time of Battery Low",
                     "equation": "H * 256 + I"
@@ -6131,7 +6131,7 @@
                         "len": 8,
                         "max": 65535.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Accumulated Time of DC Inhibit",
                     "equation": "J * 256 + K"
@@ -6153,7 +6153,7 @@
                         "len": 8,
                         "max": 65535.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Accumulated Time of Battery too High",
                     "equation": "L * 256 + M"
@@ -6175,7 +6175,7 @@
                         "len": 8,
                         "max": 65535.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Accumulated Time of Hot Temperature",
                     "equation": "N * 256 + O"
@@ -6659,7 +6659,7 @@
                         "len": 8,
                         "max": 4.0,
                         "min": 1.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "ECU Control Mode (Driving control mode=1,Current sensor offset mode=2,External charge control mode=3,Power supply end mode=4)",
                     "equation": "A"
@@ -6681,7 +6681,7 @@
                         "len": 8,
                         "max": 6.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Cooling Fan Mode 1",
                     "equation": "B"
@@ -6747,7 +6747,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Model Code_7E2",
                     "equation": "ABCDEFG"
@@ -6769,7 +6769,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Engine Code (P410)",
                     "equation": "HIJKLM"
@@ -6791,7 +6791,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Destination (America=A=65)",
                     "equation": "P"
@@ -6813,7 +6813,7 @@
                         "len": 8,
                         "max": 0.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "ECU Code",
                     "equation": "ABCDE"
@@ -6835,7 +6835,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Number of Current Code",
                     "equation": "A"
@@ -6857,7 +6857,7 @@
                         "len": 8,
                         "max": 255.0,
                         "min": 0.0,
-                        "unit": NaN
+                        "unit": "NaN"
                     },
                     "name": "Number of History Code",
                     "equation": "B"
